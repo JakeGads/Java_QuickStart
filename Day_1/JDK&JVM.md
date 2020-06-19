@@ -1,1 +1,25 @@
-# Hello World
+# This is under the hood information
+## you don't need to know it but we are gonna go over it one more time
+
+### JDK
+
+- Stands for the Java Developer Kit
+- allows you to write java code and than can compile and run said code
+- We really have to focus on 2 parts
+
+#### JVM
+
+- Stands for Java Virtual Machine
+- Takes the code (or commands you wrote) and makes it readable by other machines
+- creates .class files
+
+##### .CLASS files
+
+- as a real quick side note, you are never able to read .class files, don't even bother to look at them
+
+#### JRE
+
+- Stands for Java Runtime Environment
+- Executes the code (specifically the .class files)
+- allows you to interact ie (provided data input, give it a data file, etc)
+
