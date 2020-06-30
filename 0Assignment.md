@@ -1,1 +1,0 @@
-## Go through the information in the Setting Up File and complete them
